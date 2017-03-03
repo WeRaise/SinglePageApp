@@ -2,7 +2,7 @@
 
 **API Source: https://jsonplaceholder.typicode.com**
 
-Please use the above API to write a simple single page app in either React+Redux or Angular2 framework.
+Please use the above API to write a simple single page app in either React+Redux, Angular2 framework or any other front end framework.
 
 Clone this repo to your local dir.
 
@@ -36,3 +36,8 @@ You are also welcome to use
 - Sass
 
 etc.
+
+## Design
+Please use the below design and colours and make it look something similar.
+
+![alt tag](http://weraiseapp.com.s3.amazonaws.com/Collobos.png)
