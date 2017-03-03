@@ -8,9 +8,9 @@ Clone this repo to your local dir.
 
 ## Requirements
 
-- List all users' names with a link
-- When I click a user it should take me to another page where it displays all the user's(current selection) post
-- When I click a post it should take me to another page where it displays all the post's(current selection) comments
+- List all users' names with a link on the home page.
+- When I click a user it should take me to another page where it displays all the user's(current selection) posts.
+- When I click a post it should take me to another page where it displays all the post's(current selection) comments.
 
 ## Commit procedure
 
